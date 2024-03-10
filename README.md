@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I'm Eltion, a Fullstack Developer from New York City with a Bachelor of Science in Psychological and Brain Sciences from The George Washington University. I successfully completed the App Academy coding boot camp, and now I'm passionate about crafting innovative digital solutions. Beyond coding, I'm an avid language learner, gamer, and traveler. Exploring the world of both programming languages and spoken languages is a hobby of mine. Let's connect, collaborate, and create amazing things together!
+I'm Eltion, a Fullstack Developer from New York City with a Bachelor of Science in Psychological and Brain Sciences from The George Washington University. As an App Academy bootcamp graduate, I have valuable and powerful skills which I am eager to apply in the real world. Beyond coding, I'm an avid language learner, gamer, and traveler. Exploring the world of both programming languages and spoken languages is a hobby of mine. Let's connect, collaborate, and create amazing things together!
 
 ### 🚀 What I Do
 
